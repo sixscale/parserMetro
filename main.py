@@ -77,8 +77,7 @@ def parser(url: str, max_item: int):
             i += 1
         write_csv(list_product)
         page += 1
-        print(f"count_items{count_items}")
-        print(f"page{page}")
+
 
 
 def create_csv():
