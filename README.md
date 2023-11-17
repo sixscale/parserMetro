@@ -5,7 +5,6 @@ __Парсер для сайта METRO по категории "Сыры".__
 * Парсит по категории Сыр: 
     https://online.metro-cc.ru/category/molochnye-prodkuty-syry-i-yayca/syry?from=under_search&order=price_desc&in_stock=1.
 * В категории 485 товаров на 23 страницах.
-* Пользователи могут бронировать свободную комнату.
 * Данные, которые забирает парсер:
 -id товара;
 -наименование;
